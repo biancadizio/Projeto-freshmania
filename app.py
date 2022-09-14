@@ -29,7 +29,7 @@ Etapa 3:
 Crie uma API com a biblioteca Flask para as ações anteriores dos métodos por meio de
 protocolo HTTP.
 
-
+'''
 
 # Importando as classes e bibliotecas necessárias para o funcionamento do programa
 from flask import Flask, Response, request #Importando a classe flask para criar todas as rotas da API, Response será utilizado para criar o retorno da API e request será utilizado para trabalhar com os dados a serem inseridos no banco de dados.
