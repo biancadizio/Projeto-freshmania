@@ -8,4 +8,4 @@ Na imagem abaixo pode-se ver o layout do encriptador, com dois containers, um ao
 Na imagem abaixo pode-se ver a funcionalidade do encriptador. Após digitar o texto "encriptador de mensagens", o mesmo foi criptografado, e seu novo formato, agora criptografado, pôde ser visto no container ao lado.
 <img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img2.jpg?raw=true" height="500" width="1100">
 Nesta imagem pode-se ver a funcionalidade do botão copiar, onde, ao clicar, fora devolvido um alert confirmando que a mensagem fora copiada.
-<img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img3.jpg?raw=true" height="500" width="1100">
+<img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img3.jpg?raw=true" height="100" width="1100">
