@@ -14,6 +14,7 @@ Salve os dados que criou na classe anterior em um banco de dados e adicione os m
 </h2>Etapa 3:</h2>
 Crie uma API com a biblioteca Flask para as ações anteriores dos métodos por meio de protocolo HTTP.
 
+
 A imagem abaixo mostra a tabela produtos criada e já inserida no aplicativo web phpMyAdmin utilizado para administrar o bando de dados MySQL.
 <img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img1.jpg?raw=true" height="500" width="1100">
 
