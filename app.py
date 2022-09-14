@@ -29,11 +29,6 @@ Etapa 3:
 Crie uma API com a biblioteca Flask para as ações anteriores dos métodos por meio de
 protocolo HTTP.
 
-Finalização:
-Envie seu código em pasta zipada no email tecnologia@freshmania.com.br ou mande o link
-do repositório no email se identificando.
-'''
-
 
 
 # Importando as classes e bibliotecas necessárias para o funcionamento do programa
@@ -133,7 +128,3 @@ def deleta_produto(id):
         return gera_response(400, "produto", {}, "Erro ao deletar o produto")
 
 app.run() #para rodar o programa, chamando a função run
-
-'''
-OBS: 
-'''
