@@ -16,11 +16,14 @@ Crie uma API com a biblioteca Flask para as ações anteriores dos métodos por 
 
 
 A imagem abaixo mostra a tabela produtos criada e já inserida no aplicativo web phpMyAdmin utilizado para administrar o bando de dados MySQL.
+
 <img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img1.jpg?raw=true" height="500" width="1100">
 
 A imagem a seguir mostra a necessidade de uso de um servidor para que os dados inseridos no aplicativo sejam salvos em um bando de dados. O servidor utilizado foi o Apache junto com o MySQL.
+
 <img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img2.jpg?raw=true" height="500" width="1100">
 
 
 A imagem abaixo mostra o sucesso na criação de um banco de dados dentro do servidor, gerando assim, um protocolo HTTP.
+
 <img src="https://github.com/biancadizio/projeto_freshmania/blob/main/img3.jpg?raw=true" height="100" width="1100">
